@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class Getting_Started {
+public class 1_Data {
 
     public static void main(String [] args)
     {
